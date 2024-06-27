@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-06-06T10:16:39.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Sk45qDXra-Q0gSzVrICG" version="24.4.14" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1413" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-2" target="O-H79ht4IGxYVFuGtYyx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-2" value="User starts app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-3" target="O-H79ht4IGxYVFuGtYyx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-3" value="User successfully logged in" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-4" target="O-H79ht4IGxYVFuGtYyx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-4" value="User clicks on the group tab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-5" value="Precondition: User already has a friend and in part in a group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="245" y="-1150" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-7" target="O-H79ht4IGxYVFuGtYyx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-7" value="User want to invite a friend to a group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-9" target="O-H79ht4IGxYVFuGtYyx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-9" value="User selects the friend that he wants to add a group in the drop down list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-11" target="O-H79ht4IGxYVFuGtYyx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-11" value="User presses the invite to group button of the group he want to invite him to" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-13" target="O-H79ht4IGxYVFuGtYyx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-13" target="O-H79ht4IGxYVFuGtYyx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-13" value="The other user is already in the group" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="-400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-H79ht4IGxYVFuGtYyx-15" target="O-H79ht4IGxYVFuGtYyx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-15" value="System creates a group invite for the other user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-17" value="System displays that the user was invited to the group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-H79ht4IGxYVFuGtYyx-19" value="System displays an error, user already in group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
